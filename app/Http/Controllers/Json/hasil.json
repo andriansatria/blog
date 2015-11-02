@@ -1,0 +1,72 @@
+{
+	"id":34,
+	"title":"Membuat gambar dengan PHP",
+	"post_date":"2009-11-06 16:41:50",
+	"user_id":1,
+	"categories":[
+		{
+			"id":2,
+			"name":"Linux",
+			"description":"linux description",
+			"enabled":1,
+			"parent_id":"",
+			"created_at":"2015-05-31 07:42:55",
+			"updated_at":"2015-06-02 01:59:47",
+			"pivot":{
+				"post_id":34,
+				"category_id":2
+			}
+		},
+		{
+			"id":10,
+			"name":"Programming",
+			"description":"Pemrogramman",
+			"enabled":1,
+			"parent_id":"",
+			"created_at":"2015-06-01 08:20:23",
+			"updated_at":"2015-06-01 08:20:23",
+			"pivot":{
+				"post_id":34,
+				"category_id":10
+			}
+		},
+		{
+			"id":21,
+			"name":"PHP",
+			"description":"",
+			"enabled":1,
+			"parent_id":"",
+			"created_at":"2015-06-09 07:48:14",
+			"updated_at":"2015-06-09 07:48:14",
+			"pivot":{
+				"post_id":34,
+				"category_id":21
+			}
+		},
+		{
+			"id":26,
+			"name":"Oracle",
+			"description":"",
+			"enabled":1,
+			"parent_id":"",
+			"created_at":"2015-06-10 11:07:13",
+			"updated_at":"2015-06-10 11:07:13",
+			"pivot":{
+				"post_id":34,
+				"category_id":26
+			}
+		}
+	],
+	"users":{
+		"id":1,
+		"email":"andrian.martiyanto@gmail.com",
+		"password":"$10$3OikW5S.IawQCGYiH.VRDeygTpKqufXx8HKf0ZvEO.G9QQF8T9bJG",
+		"display_name":"andrian",
+		"firstname":"andrian",
+		"last_name":"satria",
+		"role_id":1,
+		"remember_token":"M5hAk63MvYq42voWyC9M4VMyQ4XmUAuzYklGWVFMpFPuKBZmzvN40cbd14Fq",
+		"created_at":"-0001-11-30 00:00:00",	
+		"updated_at":"-0001-11-30 00:00:00"
+	}
+}

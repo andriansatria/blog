@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: cobates
+        psr4_prefix: cobates
+        src_path: app
